@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 g = {"x": 1}
 h = True
 i = 3.14
@@ -23,3 +24,5 @@ sorted_variables = sorted([
     "h",
     "i"
 ])
+=======
+>>>>>>> e4a409c (Solution)
